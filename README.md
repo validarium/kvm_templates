@@ -1,3 +1,3 @@
 # kvm_templates
-Templates for vps 
+Templates for vps.
 Just for easy copy paste.
