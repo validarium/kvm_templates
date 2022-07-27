@@ -18,7 +18,7 @@ sudo virt-install --name debian \
 ```
 virt-install --name ubuntu \
 --ram 8192 \
---disk path=images/ubuntu2004.img,size=20 \
+--disk path=images/ubuntu2004.img,size=250 \
 --vcpus 4 \
 --os-variant ubuntu20.04 \
 --network bridge=br0 \
